@@ -3,6 +3,11 @@
 Friends mesajlaşma uygulamsında , Google hesaplarıyla kolayca giriş yapabilir ve sohbet ederken emoji seçme gibi kullanıcı dostu özelliklerden yararlanabilirler. Ayrıca, SCSS kullanarak stil kodları yönetilebilir hale getirmiş ve Firebase'in sunduğu veritabanı ve kimlik doğrulama hizmetlerinden faydalanarak güvenilir bir altyapı oluşturuldu.
 
 
+###
+
+-friends-chat-app-sandy.vercel.app
+
+
 
 
 # Geliştirilmesi gereken süreçler 
