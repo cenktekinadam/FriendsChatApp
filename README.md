@@ -17,5 +17,5 @@ Friends mesajlaşma uygulamsında , Google hesaplarıyla kolayca giriş yapabili
 
 - Responsive ve UI Güncellemeleri 
 
--  Test ve  Yayınlama 
+-  Test ve  Yayınlama (Vercel)
 
